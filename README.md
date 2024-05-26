@@ -22,6 +22,6 @@ Right now, I'm working as a full-time as a software engineer and in my free time
 ### My on-going projects
 This list isn't inclusive, but a couple of my projects I'd like to point out are:
 
-[**@dylanbulmer/openapi**](/DylanBulmer/openapi), a lightweight middleware that can help organize and build out your API documentation faster. With the help of TypeScript, you are informed immediately when your API documentation is malformed before building and running!
+[**@dylanbulmer/openapi**](https://github.com/DylanBulmer/openapi), a lightweight middleware that can help organize and build out your API documentation faster. With the help of TypeScript, you are informed immediately when your API documentation is malformed before building and running!
 
-[**Codr**](/CodrJS), an open-sourced, customizable, and scalable, annotation tool that provides researchers a secure place to upload and annotate hundreds of thousands of samples, export, and then use the result to train ML models and more.
+[**Codr**](https://github.com/CodrJS), an open-sourced, customizable, and scalable, annotation tool that provides researchers a secure place to upload and annotate hundreds of thousands of samples, export, and then use the result to train ML models and more.
